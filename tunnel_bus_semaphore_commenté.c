@@ -1,3 +1,6 @@
+// etudiante ammiali rahma g6 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
